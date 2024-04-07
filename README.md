@@ -1,1 +1,2 @@
-# dusty91487.gethub.io
+theme: jekyll-theme-minimal
+title: Dustin Thompson's portfolio
